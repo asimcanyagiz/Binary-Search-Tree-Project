@@ -1,3 +1,5 @@
+![My project-14](https://user-images.githubusercontent.com/89473605/174806579-f5c47aa2-fab4-48e9-8b7b-8dc3773ec55b.png)
+
 # Binary-Search-Tree-Project
 
 ## A project for Algorithm task from Patika.dev course
